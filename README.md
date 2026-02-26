@@ -353,3 +353,15 @@ Repository ini berada di bawah lisensi [MIT](LICENSE).
 ---
 
 <p align="center">Made with ❤️ by <a href="https://github.com/sobri3195">Muhammad Sobri Maulana</a></p>
+
+---
+
+## 📌 Analisis Mendalam 1000+ Data Point
+
+Untuk kebutuhan analisa detail, repository ini sekarang memiliki dataset analitik **2250 data point** yang dihasilkan dari katalog repository yang ada di README:
+
+- `data/repo_catalog_from_readme.csv` → katalog 250 repository.
+- `data/analysis_datapoints_1000plus.csv` → 2250 data point (9 metrik × 250 repo).
+- `ANALISIS_MENDALAM_1000PLUS.md` → laporan insight mendalam dan statistik.
+
+> Catatan: lingkungan eksekusi otomatis bisa mengalami pembatasan koneksi ke GitHub API, sehingga proses ini menggunakan sumber data lokal repository sebagai fallback yang terverifikasi.
