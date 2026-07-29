@@ -121,6 +121,7 @@
 * [pegasus-exploit](https://github.com/sobri3195/pegasus-exploit) - Pegasus-exploit is a simple python script to Information Gathering 
 * [pegasus-0day-acunetix](https://github.com/sobri3195/pegasus-0day-acunetix) - This PoC exploit 2 vulnerability in Acunetix core , the first one is a RCE (Remote Command  Exec) and the second one is a LPE (Local Privilege Escalation).
 * [Pegasus-obfuscator](https://github.com/sobri3195/Pegasus-obfuscator) - The program is designed to obfuscate the shellcode.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, fully self hosted and local.
 * [VulnHunter](https://github.com/sobri3195/VulnHunter) - A comprehensive GUI-based vulnerability scanner application for Windows with 25+ security features.
 * [Pegasus-Super-Lacak](https://github.com/sobri3195/Pegasus-Super-Lacak) - Pegasus-Super-Lacak adalah server API mock/stub dan backdoor berbasis Python untuk keperluan doxing dan profilling. Proyek ini terhubung ke basis data atau layanan publik mana pun,
 
